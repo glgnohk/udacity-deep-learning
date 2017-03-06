@@ -1,0 +1,6 @@
+*.p
+cifar*
+image_classification*
+__py*
+.ipy*
+checkpoint
